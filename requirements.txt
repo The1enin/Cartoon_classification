@@ -1,0 +1,4 @@
+Pandas version: 2.1.4
+Numpy version: 1.26.4
+NLTK version: 3.8.1
+lightgbm version: 4.3.0
